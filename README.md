@@ -10,7 +10,7 @@ Type `npm install` or `npm install` in your console to install packages.
 
 Enter your Bot's Token in `config.json` 
 
-Run `nuker.cmd`
+Run `nuker.bat`
 
 # Features
 ・Kicks Members.
