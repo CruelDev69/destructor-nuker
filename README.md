@@ -24,9 +24,11 @@ Run `nuker.bat`
 ・Changes Server's Name and Icon.
 
 ・Kicks 10 members per second if hosted on a vps
+***
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/937716602592436244/952861415939661906/unknown.png"/></p>
 
+***
 # Note:
 Use it but please give credits to author.
 
