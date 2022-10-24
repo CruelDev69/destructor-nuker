@@ -10,9 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "discord.js": "^12.5.3"
+    "discord.js": "^13.10.3",
+    "node-fetch": "^2.5.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CruelDev69/destructor-nuker.git"
