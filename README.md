@@ -1,6 +1,8 @@
 # Destructor-nuker
 A nuke bot made with ❤ by Ahad#3257
 
+To buy premium nuke bot which is more faster and comes with many features you can buy it from my [sellix shop](https://ahadakacruel.sellix.io/product/6356543e073e6).
+
 # Libraries
     "chalk": "^4.1.2",
     "discord.js": "^12.5.3"
@@ -41,6 +43,7 @@ Run `nuker.bat`
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/937716602592436244/952861415939661906/unknown.png"/></p>
 
 ***
+
 # Note:
 Use it but please give credits to author.
 
