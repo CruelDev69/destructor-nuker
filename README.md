@@ -1,7 +1,7 @@
 # Destructor-nuker
 A nuke bot made with ❤ by Ahad#3257
 
-To buy premium nuke bot which is more faster and comes with many features you can buy it from my [sellix shop](https://ahadakacruel.sellix.io/product/6356543e073e6). Use `TheVUnit` coupon code to get 30% discount
+To buy premium nuke bot which is more faster and comes with many features you can buy it from my [sellix shop](https://thevunit.mysellix.io/). Use `TheVUnit` coupon code to get 30% discount
 
 
 # Libraries
